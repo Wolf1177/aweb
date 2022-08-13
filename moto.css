@@ -1,0 +1,26 @@
+body{
+    background-image: url(moto.jpg) ;
+    background-size: cover;
+    font-size: 20px;
+}
+.moto {
+    max-width: 900px;
+    margin: auto;    
+    background-color: #cbe0d9;
+    opacity: 80%;
+    text-align: center;    
+}
+nav {margin: 100px;}
+h1 {margin: 1px 100px 1px 100px;}
+.день{
+    margin: 100px;
+}
+.джимхана{
+    margin: 10px;
+}
+.лес{
+    margin: 10px; 
+}
+.фест{
+    margin: 10px;
+}
